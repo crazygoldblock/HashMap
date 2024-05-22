@@ -98,7 +98,7 @@ public class Chat : MonoBehaviour
     }
     /// <summary>
     /// zobrazit zprávu v chatu
-    /// pokud system == true tuto zprávu NEpošle ostatním clientùm po síti 
+    /// pokud system == true tuto zprávu NEpošle ostatním clientùm 
     /// </summary>
     public void SendMessageChat(string username, string text, bool system) {
 
